@@ -1,3 +1,4 @@
 index.json
 abp/4.4.0/abp.4.4.0.nupkg
 abp.automapper/4.4.0/abp.automapper.4.4.0.nupkg
+log4net/2.0.8/log4net.2.0.8.nupkg
